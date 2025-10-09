@@ -1,10 +1,10 @@
 # Responsive-Portfolio-Website
 Responsive-Portfolio
 
-#Live Response
+# Live Response
 Live-link - responsive-portfolio-fc9fde.netlify.app
 
-#Screenshot
+# Screenshot
 
 <img width="492" height="816" alt="Image" src="https://github.com/user-attachments/assets/f636a74b-a73e-40cb-bd18-b89576dff067" />
 
