@@ -2,7 +2,7 @@
 Responsive-Portfolio
 
 # Live Response
-link - https://responsive-portfolio-fc9fde.netlify.app/
+link - https://reponsive-portfolio-057ad8.netlify.app/
 
 # Screenshot
 
