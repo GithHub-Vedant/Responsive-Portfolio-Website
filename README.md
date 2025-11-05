@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases skills, projects, qualifications, and services in an elegant and professional layout.
 
+# Live Demo
+
+Link - https://reponsive-portfolio-057ad8.netlify.app/
+
 ## 🚀 Technology Used
 
 - **HTML5** - Structure and content
@@ -99,4 +103,5 @@ For any inquiries or feedback, please reach out through the contact form on the 
 
 
 © 2025 Vedant Ligade. All rights reserved.
+
 
