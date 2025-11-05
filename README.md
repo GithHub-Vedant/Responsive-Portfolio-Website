@@ -64,22 +64,10 @@ Responsive_Portfolio/
 
 ## ▶️ How to Run the Project
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/Responsive_Portfolio.git
-   ```
-
-2. **Navigate to the project directory**
-   ```bash
-   cd Responsive_Portfolio
-   ```
-
-3. **Open the project**
+1. **Open the project directly**
    - Double-click on `index.html` to open in your default browser
-   - OR
-   - Right-click on `index.html` and select "Open with" your preferred browser
 
-4. **Alternative method using Live Server**
+2. **Alternative method using Live Server**
    - If you're using VS Code, install the "Live Server" extension
    - Right-click on `index.html` and select "Open with Live Server"
 
@@ -111,3 +99,4 @@ For any inquiries or feedback, please reach out through the contact form on the 
 
 
 © 2025 Vedant Ligade. All rights reserved.
+
