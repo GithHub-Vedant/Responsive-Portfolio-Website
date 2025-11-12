@@ -1034,6 +1034,7 @@ body.dark-theme {
 
   .projects__img {
     width: 200px;
+    height: 150px;
     justify-self: center;
   }
 }
@@ -1357,6 +1358,7 @@ body.dark-theme {
 
   .projects__img {
     width: 350px;
+    height: 250px;
     margin-bottom: 2rem;
   }
 
