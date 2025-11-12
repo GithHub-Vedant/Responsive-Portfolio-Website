@@ -110,14 +110,17 @@ During the development of this portfolio website, several key research areas wer
 
 ## 📷 Screenshots
 
-![Portfolio Home Section](screenshot/Screenshot%202025-10-02%20192003.png)
 *Home section with profile and introduction*
 
-![Skills and Qualification Sections](screenshot/Screenshot%202025-10-02%20192024.png)
+![Portfolio Home Section](screenshot/Screenshot%202025-10-02%20192003.png)
+
 *Skills and qualification timeline*
 
-![Projects and Contact Sections](screenshot/Screenshot%202025-10-02%20192043.png)
+![Skills and Qualification Sections](screenshot/Screenshot%202025-10-02%20192024.png)
+
 *Project showcase and contact form*
+
+![Projects and Contact Sections](screenshot/Screenshot%202025-10-02%20192043.png)
 
 ## ▶️ How to Run the Project
 
@@ -155,6 +158,7 @@ For any inquiries or feedback, please reach out through the contact form on the 
 ---------------------------------------------------------------------------------------------
 
 © 2025 Vedant Ligade. All rights reserved.
+
 
 
 
