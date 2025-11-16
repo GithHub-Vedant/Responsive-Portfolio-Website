@@ -107,7 +107,7 @@ During the development of this portfolio website, several key research areas wer
 - **User Experience**: Progressive disclosure of content through scroll animations creates engaging narratives
 - **Maintenance**: Well-organized CSS variables make theme customization and updates straightforward
 
-## 📷 Screenshots
+##  Screenshots
 
 *Home section with profile and introduction*
 
@@ -121,7 +121,7 @@ During the development of this portfolio website, several key research areas wer
 
 ![Projects and Contact Sections](screenshot/Screenshot%202025-10-02%20192043.png)
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. **Open the project directly**
    - Double-click on `index.html` to open in your default browser
@@ -130,7 +130,7 @@ During the development of this portfolio website, several key research areas wer
    - If you're using VS Code, install the "Live Server" extension
    - Right-click on `index.html` and select "Open with Live Server"
 
-## 🎨 Customization
+##  Customization
 
 To customize this portfolio for your own use:
 
@@ -153,6 +153,7 @@ To customize this portfolio for your own use:
 ---------------------------------------------------------------------------------------------
 
 © 2025 Vedant Ligade. All rights reserved.
+
 
 
 
