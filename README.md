@@ -17,7 +17,6 @@ Link - https://responsive-portfolio-d3f4ba.netlify.app/
 - [Screenshots](#screenshots)
 - [How to Run the Project](#how-to-run-the-project)
 - [Customization](#customization)
-- [Contact](#contact)
 
 ## Project Overview
 
@@ -151,13 +150,10 @@ To customize this portfolio for your own use:
    - Modify color variables in `assets/css/styles.css`
    - Look for the `:root` section to change the color scheme
 
-## 📞 Contact
-
-For any inquiries or feedback, please reach out through the contact form on the website or connect via social media.
-
 ---------------------------------------------------------------------------------------------
 
 © 2025 Vedant Ligade. All rights reserved.
+
 
 
 
